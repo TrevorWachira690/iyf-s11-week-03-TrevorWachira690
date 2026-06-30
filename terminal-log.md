@@ -1,9 +1,10 @@
 ### Commands Used to create directories
-```cmd
+```Ps
 cd Documents
 mkdir my-project
 cd my-project
 mkdir src\css, src\js, src\images, docs, tests
+New-item README.md
 ```
 ## Final result:
 ```
